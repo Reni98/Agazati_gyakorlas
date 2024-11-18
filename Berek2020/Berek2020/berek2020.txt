@@ -75,7 +75,7 @@ Fehér Jakab;férfi;értékesítés;1973;241893
 Szabó Péter;férfi;pénzügy;2010;226231
 Torgyán Attila;férfi;szerelőműhely;1987;342561
 Kárai Kata;nő;pénzügy;1994;122245
-Kötö Irma;nő;lakatosműhely;1990;284049
+Kötő Irma;nő;lakatosműhely;1990;284049
 Nem János;férfi;pénzügy;1990;143081
 Presser Gábor;férfi;értékesítés;2016;173758
 Szép Kálmán;férfi;szerelőműhely;1986;170663
@@ -90,6 +90,9 @@ Kodály Zoltán;férfi;értékesítés;1975;482961
 Pastinszky Tamás;férfi;személyzeti;2006;325980
 Czeczei Zsolt;férfi;beszerzés;1981;452042
 Habos Helén;nő;szerelőműhely;2004;264754
-Hegedűs Ilona;nő;szerelőműhely;1981;198774
+Hegedüs Ilona;nő;szerelőműhely;1981;198774
 Kecskés Mária;nő;szerelőműhely;1978;149959
 Kovács Beáta;nő;személyzeti;2013;386887
+Prezma Aurora;nő;pénzügy;1991;137207
+Sörös Leopold;férfi;lakatosműhely;1972;329999
+Bodor Enikő;nő;karbantartás;1989;302147
